@@ -18,6 +18,8 @@ We need to `predict` whether the customer will `churn`, `stay` or `join` the com
 <img src = "/assets/2.png">
 <img src = "/assets/3.png">
 <img src = "/assets/4.png">
+<img src = "/assets/5.png">
+<img src = "/assets/6.png">
 
 
 ## 📓 Overview
